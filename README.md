@@ -48,7 +48,7 @@ To run this project locally, you need:
 ## Screenshots
 ### Desktop View
 ![Desktop Screenshot 1](snapshots/desktop-1.png)
-![Desktop Screenshot 2](snapshots/desktop-1.png)
+![Desktop Screenshot 2](snapshots/desktop-2.png)
 
 ### Mobile View
 ![Mobile Screenshot 1](snapshots/mobile.png)
