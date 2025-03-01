@@ -47,10 +47,11 @@ To run this project locally, you need:
 
 ## Screenshots
 ### Desktop View
-![Desktop Screenshot](snapshots/desktop-view.png)
+![Desktop Screenshot 1](snapshots/desktop-1.png)
+![Desktop Screenshot 2](snapshots/desktop-1.png)
 
 ### Mobile View
-![Mobile Screenshot](snapshots/mobile-view.png)
+![Mobile Screenshot 1](snapshots/mobile.png)
 
 ## Screen Recording
 To demonstrate the working of the project, here are the screen recordings:
